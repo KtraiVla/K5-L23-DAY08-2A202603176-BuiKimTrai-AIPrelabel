@@ -5,7 +5,8 @@
 - Lớp: L23
 - Tài khoản GitHub: KtraiVla
 - Repo bài nộp (URL): https://github.com/KtraiVla/K5-L23-DAY08-2A202603176-BuiKimTrai-AIPrelabel
-- Commit chốt bài (hash): Chưa chốt; bổ sung sau khi hoàn thành bài.
+- Commit chốt bài (hash): ff3d564ad1ddbf1a6fb8fb8a6568ee3ad688ea16
+- Ghi chú hash: mã trên trỏ tới bản chốt sản phẩm đầy đủ trước commit ghi metadata này; xem lịch sử Git để truy vết.
 - Máy: Windows 11 Pro; AMD Ryzen 7 5800H; RAM 16 GB; Python 3.13.15 trong D:\day08\.venv; chạy model bằng CPU (PyTorch 2.15.0+cpu), không sử dụng CUDA/MPS cho lab.
 - CVAT (Docker): v2.81.0, chạy bằng Docker Desktop/WSL2 trên máy tại http://localhost:8090.
 
