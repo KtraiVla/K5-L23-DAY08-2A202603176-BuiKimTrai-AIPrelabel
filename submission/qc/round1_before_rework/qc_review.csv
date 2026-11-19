@@ -1,0 +1,9 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,6,thua,Bùi Kim Trại,"Hai box #5 và #6 bao cùng xe, ghi #6 là box trùng để tránh đếm hai lỗi cho cùng cặp. Học viên nhận xét xe bán hàng bị gọi tuk-tuk; taxonomy three_wheeler có cả xe ba bánh chở hàng nên chưa ghi sai_lop từ tên gọi này."
+img_006.jpg,,bo_sot,Bùi Kim Trại,Một người đứng ở xa chưa có box. Theo xác nhận học viên; khi sửa đối chiếu điều kiện cao ≥20 px và phần nhìn thấy theo guideline.
+img_006.jpg,,bo_sot,Bùi Kim Trại,"Người ngồi ghế ở xa thứ nhất chưa có box, trong hai người học viên xác nhận. Theo xác nhận học viên; khi sửa đối chiếu điều kiện cao ≥20 px và phần nhìn thấy theo guideline."
+img_006.jpg,,bo_sot,Bùi Kim Trại,"Người ngồi ghế ở xa thứ hai chưa có box, trong hai người học viên xác nhận. Theo xác nhận học viên; khi sửa đối chiếu điều kiện cao ≥20 px và phần nhìn thấy theo guideline."
+img_013.jpg,,bo_sot,Bùi Kim Trại,Thiếu một người ngồi tại bàn; đối chiếu ảnh QC là người áo hồng ở giữa ảnh. Học viên nhận xét các box đã có ôm sát và đúng lớp.
+img_014.jpg,,bo_sot,Bùi Kim Trại,Một người áo trắng đi xe máy ở xa chưa có box. Theo xác nhận học viên; khi sửa đối chiếu điều kiện cao ≥20 px và phần nhìn thấy theo guideline.
+img_025.jpg,,bo_sot,Bùi Kim Trại,"Một người áo trắng đi bộ ở xa chưa có box. Xe cạnh ghế đỏ giữ motorbike theo CAL-02, không ghi sai_lop. Theo xác nhận học viên; khi sửa đối chiếu điều kiện cao ≥20 px và phần nhìn thấy theo guideline."
+img_033.jpg,,khong,Bùi Kim Trại,"Học viên đã kiểm: box ôm sát, đúng tên lớp, không báo lỗi."
